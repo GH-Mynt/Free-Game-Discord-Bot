@@ -9,7 +9,7 @@ First, clone the repository.
 git clone https://github.com/GH-Mynt/Free-Game-Discord-Bot
 cd Free-Game-Discord-Bot
 ```
-Then put your bot token into the file called `token.txt`
+Then put your bot token into the file called `token.txt` <br>
 Download requirements using:
 ```bash
 python3 -m pip install -r requirements.txt
@@ -19,5 +19,5 @@ Then run main file:
 python3 main.py
 ```
 ## Usage
-Once you have invited your bot to a server, run `>help` to see a list of all the commands. 
+Once you have invited your bot to a server, run `>help` to see a list of all the commands. <br>
 You can use the command `>set <channel name or ID>` to set the channel where the bot will send notifications about the free games. 
