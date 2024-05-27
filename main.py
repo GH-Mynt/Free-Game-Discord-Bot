@@ -71,7 +71,7 @@ async def on_ready():
     check_thursday.start()
     
 
-@tasks.loop(seconds = 10)
+@tasks.loop(minutes = 1)
 async def check_thursday():
     
     now = datetime.datetime.now()
