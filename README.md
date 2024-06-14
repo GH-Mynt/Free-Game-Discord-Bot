@@ -3,6 +3,9 @@
 
 ![image](https://github.com/GH-Mynt/Free-Game-Discord-Bot/assets/112644324/a7a49e2f-4f8f-4016-b01c-543098b7136c)
 
+## Invite 
+You can invite the bot using [this link](https://discord.com/oauth2/authorize?client_id=762368682155835444&scope=bot+applications.commands)
+
 ## Installation
 First, clone the repository. 
 ```bash
